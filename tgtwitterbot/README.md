@@ -1,4 +1,6 @@
+<link rel="icon" href="tgtwitterbot/20210418_004643.png">
+
 <div align="center">
   <h2>TgTwitterBot</h2><br><br>
-  <img src="https://telegra.ph/file/845054582c76963620311.jpg" width="500">
+  <img src="tgtwitterbot/20210418_004643.png" class="decor" width="500">
 </div>
