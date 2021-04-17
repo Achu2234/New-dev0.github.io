@@ -1,6 +1,8 @@
-<link rel="icon" href="../tgtwitterbot/20210418_004643.png">
+<title>TgTwitterBot</title>
 
 <div align="center">
-  <h2>TgTwitterBot</h2><br><br>
-  <img src="../tgtwitterbot/20210418_004643.png" class="decor" width="500">
+  <h2>TgTwitterBot</h2><br>
+  <img src="../tgtwitterbot/20210418_004643.png" width="500"><br>
+  <p><i>Telegram - Twitter - Bot</i></p>
 </div>
+<p><a href="https://github.com/New-dev0/TgTwitterBot">TgTwitterBot</a> can Help you to Control and Explore Twitter from Telegram.</p>
