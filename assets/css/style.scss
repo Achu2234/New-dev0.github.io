@@ -2,6 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css?family=Architects+Daughter');
 
 .ffotter {
    position:fixed;
@@ -9,8 +10,7 @@
    bottom: 0px;
    width: 100%;
    text-align: center;
-   padding-right: 0.3em;
-   margin-left: -0.9em;
-   color: #9ddcff;
-   content: "/";
+   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+   background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
+   border-bottom: solid 1px #275da1;
 }
