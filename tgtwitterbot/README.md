@@ -6,4 +6,8 @@
 <p><a href="https://github.com/New-dev0/TgTwitterBot">TgTwitterBot</a> can Help you to Control and Explore Twitter from Telegram.<br>
 It is Using <a href="https://github.com/Tweepy/Tweepy">Tweepy</a> to Interact with Twitter API.
 </p>
-<p align="center"><a href="/deployment" class="zbutton">Deployment Guide</a></p>
+<h2>Deployment Guide</h2>
+<ol><li>Create a <a href="https://developer.twitter.com/en">Twitter Developer Account</a>.</li>
+<li>Go to Developer Portal/Dashboard.</li>
+<li>Create a Application and fill the details Asked !</li>
+<li>Change the App Setting to <code>Read + Write</code></li></ol>
