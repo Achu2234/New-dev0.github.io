@@ -11,6 +11,7 @@ permalink: /404.html
 
 <style>
   .cartoon{
+  width:120px;
   border: 3px solid #ffa9b7;
   background: #fff;
   padding: 16px 32px;
@@ -24,5 +25,52 @@ permalink: /404.html
   margin: 24px;
   cursor: pointer;
 }
+  button.neon-button:hover {
+  animation: flicker 400ms linear forwards;
+}
+
+@keyframes flicker {
+  5% {
+    border-color: #fa032c;
+    color: #fa032c;
+    text-shadow: 0 0 4px #ff4262;
+    box-shadow: 0 0 16px 0 #ff4262, inset 0 0 8px 0 #ff4262;
+  }
+
+  10% {
+    border-color: #ff4262;
+    color: #ff4262;
+    box-shadow: unset;
+    text-shadow: unset;
+  }
+
+  55% {
+    border-color: #fa032c;
+    color: #fa032c;
+    text-shadow: 0 0 4px #ff4262;
+    box-shadow: 0 0 16px 0 #ff4262, inset 0 0 8px 0 #ff4262;
+  }
+
+  75% {
+    border-color: #fa032c;
+    color: #fa032c;
+    text-shadow: 0 0 4px #ff4262;
+    box-shadow: 0 0 16px 0 #ff4262, inset 0 0 8px 0 #ff4262;
+  }
+
+  80% {
+    border-color: #ff4262;
+    color: #ff4262;
+    box-shadow: unset;
+    text-shadow: unset;
+  }
+
+  100% {
+    border-color: #fa032c;
+    color: #fa032c;
+    text-shadow: 0 0 4px #ff4262;
+    box-shadow: 0 0 16px 0 #ff4262, inset 0 0 8px 0 #ff4262;
+  }
+  }
 
 </style>
