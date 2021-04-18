@@ -1,5 +1,3 @@
-<title>TgTwitterBot</title>
-
 <div align="center">
   <h2>TgTwitterBot</h2><br>
   <img src="../tgtwitterbot/20210418_004643.png" width="500"><br>
