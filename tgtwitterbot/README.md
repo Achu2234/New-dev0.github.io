@@ -1,11 +1,15 @@
 <div align="center">
     <h2>TgTwitterBot</h2><br>
     <img src="../tgtwitterbot/20210418_004643.png" width="500"><br>
-    <p><i>Telegram - Twitter - Bot</i></p>
+    <p><i>Telegram - Twitter - Bot</i>
+        <br>-----------------
+        <br></p>
 </div>
+<br>
 <p><a href="https://github.com/New-dev0/TgTwitterBot">
-TgTwitterBot</a> can Help you to Control and Explore Twitter from Telegram.<br> It is Using <a href="https://github.com/Tweepy/Tweepy">Tweepy</a> to Interact with Twitter API.
+TgTwitterBot</a> can Help you to Control and Explore Twitter from Telegram.<br> It is Using <a href="https://github.com/Tweepy/Tweepy">Tweepy</a> to Interact with Twitter API and <a href="https://github.com/pyrogram/pyrogram">Pyrogram</a> for use of Telegram-Client.
 </p>
+<br>
 <h2>Deployment Guide</h2>
 <h3>Getting ENV's</h3>
 <ol>
@@ -35,9 +39,10 @@ TgTwitterBot</a> can Help you to Control and Explore Twitter from Telegram.<br> 
         <ul type="circle">
             <li>Create a Bot and you will get Bot Token.</li>
             <li>Fill it as <code>BOT_TOKEN</code></li>
-</ol>
-</li><br>
-<li>and Done !</li>
+    </li>
+    </ul>
+    <br>
+    <li>and <b>Done</b> !</li>
 </ol>
 
 <h3>Local Deploy</h3>
