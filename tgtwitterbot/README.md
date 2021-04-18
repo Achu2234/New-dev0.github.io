@@ -54,6 +54,8 @@ TgTwitterBot</a> can Help you to Control and Explore Twitter from Telegram.<br> 
 </ol>
 <hr>
 <p align="center">For Any Queries, Ask in <a href="https://t.me/FutureCodesChat">@FutureCodesChat !</a> or Contact at <a href="https://t.me/newdev0">@NewDev0
-    </a><br>-------------------------
-    <h6><p align="center">Edit This <a href="https://github.com/New-dev0/New-dev0.github.io/blob/main/tgtwitterbot">Page</h6></p>
+    </a><br>-------------------------<>
+    <p align="center">
+        Edit <a href="https://github.com/New-dev0/New-dev0.github.io/blob/main/tgtwitterbot">This Page</a>
+</p>
 </p>
