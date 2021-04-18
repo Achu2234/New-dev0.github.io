@@ -52,7 +52,7 @@ TgTwitterBot</a> can Help you to Control and Explore Twitter from Telegram.<br> 
     <li>Install Requirements<br><code>pip install -r requirements.txt</code></li><br>
     <li>Start The Bot<br><code>python -m twitterbot</code></li>
 </ol>
-
+<hr>
 <p align="center">For Any Queries, Ask in <a href="https://t.me/FutureCodesChat">@FutureCodesChat !</a> or Contact at <a href="https://t.me/newdev0">@NewDev0
     </a><br>-------------------------
 </p>
