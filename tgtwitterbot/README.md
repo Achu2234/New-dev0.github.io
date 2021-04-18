@@ -6,7 +6,8 @@
 <p><a href="https://github.com/New-dev0/TgTwitterBot">TgTwitterBot</a> can Help you to Control and Explore Twitter from Telegram.<br>
 It is Using <a href="https://github.com/Tweepy/Tweepy">Tweepy</a> to Interact with Twitter API.
 </p>
-<h2>Deployment Guide</h2>
+<h2>Deployment Guide</h2><br>
+<h3>Getting ENV's</h3><br>
 <ol><li>Create a <a href="https://developer.twitter.com/en">Twitter Developer Account</a>.</li>
 <li>Go to Developer Portal/Dashboard.</li>
 <li>Create a Application and fill the details Asked !</li>
@@ -20,8 +21,14 @@ It is Using <a href="https://github.com/Tweepy/Tweepy">Tweepy</a> to Interact wi
   Access Token will be <code>ACCESS_TOKEN</code><br>
   Access Secret will be <code>ACCESS_TOKEN_SECRET</code> Required to Tweet and other functions.</li>
   <li>Add the User Id of users in <code>AUTHUSERS</code> Var. AUTHUSERS will have Access to Use Your BOT.</li>
-  <li>Go to <a href="https://my.telegram.org">my.telegram.org</a><br><ul type="square"><li>Login with Your Account.</li><li>Go to </i>API Development tools</i> Tab</li>
+  <li>Go to <a href="https://my.telegram.org">my.telegram.org</a><br><ul type="square"><li>Login with Your Account.</li><br><li>Go to <i color="black">API Development tools</i> Tab</li>
   <li>Create A Telegram APP.</li>
   <li>You will Get Your <code>API_ID</code> and <code>API_HASH</code></li></ul>
-    <li>Fill the ENV Variables in .env file for Local Deploy or Enter in Var Boxes for Heroku.</li>
+    <li><ol type="circle"><li>Go to <href="https://t.me/botfather">@BotFather</a></li>
+      <li>Create a Bot and you will get Bot Token.</li>
+      <li>Fill it as <code>BOT_TOKEN</code></li></ol></li>
+  <li>and Done !</li>
 </ol>
+
+<h3>Local Deploy</h3>
+<ol><li><li></ol>
