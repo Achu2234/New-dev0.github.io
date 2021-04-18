@@ -14,8 +14,9 @@ It is Using <a href="https://github.com/Tweepy/Tweepy">Tweepy</a> to Interact wi
 <li>Go to <code>Keys and Token</code> Tab.</li>
 <li>You can see <code>Consumer Key</code>'s Heading<br><img src="https://telegra.ph/file/53cd6e806af38801df381.jpg" width="600"><br>
   Generate the Api Key & Secret<br>
-  Generated Api Key will be <code>CONSUMER_KEY</code> and Api Secret will be <code>CONSUMER_SECRET</code><br>Which are Required in ENV.</li>
-<li><img src="https://telegra.ph/file/bc7b4923f87f48e0c1be2.jpg" width="600">Generate Your Access Token and Secret.
+  Generated Api Key will be <code>CONSUMER_KEY</code> and Api Secret will be <code>CONSUMER_SECRET</code><br>Which are Required in ENV.
+  </li>
+<li><img src="https://telegra.ph/file/bc7b4923f87f48e0c1be2.jpg" width="600"><br>Generate Your Access Token and Secret.
   Access Token will be <code>ACCESS_TOKEN</code><br>
   Access Secret will be <code>ACCESS_TOKEN_SECRET</code> Required to Tweet and other functions.</li>
-  </ol>
+</ol>
