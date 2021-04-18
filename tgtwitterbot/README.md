@@ -17,22 +17,27 @@ TgTwitterBot</a> can Help you to Control and Explore Twitter from Telegram.<br> 
     <li>You can see <code>Consumer Key</code>'s Heading<br><img src="https://telegra.ph/file/53cd6e806af38801df381.jpg" width="600"><br> Generate the Api Key & Secret<br> Generated Api Key will be <code>CONSUMER_KEY</code> and Api Secret will be <code>CONSUMER_SECRET</code><br>Which
         are Required in ENV.
     </li><br>
-    <li>Check <i>Authentication Token</i><br><br><img src="https://telegra.ph/file/bc7b4923f87f48e0c1be2.jpg" width="600"><br>Generate Your Access Token and Secret.<br> Access Token will be <code>ACCESS_TOKEN</code><br> Access Secret will be <code>ACCESS_TOKEN_SECRET</code>, Required.</li>
-    <br><li>Add the User Id of users in <code>AUTHUSERS</code> Var. They will have Access to Use Your BOT.</li>
-    <br><li>Go to <a href="https://my.telegram.org">my.telegram.org</a><br>
+    <li>Check <i>Authentication Token</i><br><br><img src="https://telegra.ph/file/bc7b4923f87f48e0c1be2.jpg" width="600"><br>Generate Your Access Token and Secret.<br> Access Token will be <code>ACCESS_TOKEN</code><br> Access Secret will be <code>ACCESS_TOKEN_SECRET</code>,
+        Required.
+    </li>
+    <br>
+    <li>Add the User Id of users in <code>AUTHUSERS</code> Var. They will have Access to Use Your BOT.</li>
+    <br>
+    <li>Go to <a href="https://my.telegram.org">my.telegram.org</a><br>
         <ul type="square">
             <li>Login with Your Account.</li>
             <li>Go to <i color="black">API Development tools</i> Tab</li>
             <li>Create A Telegram APP.</li>
             <li>You will Get Your <code>API_ID</code> and <code>API_HASH</code></li>
-        </ul>
-        <li>Go to <a href="https://t.me/botfather">@BotFather</a>
-            <ol type="circle">
-                <li>Create a Bot and you will get Bot Token.</li>
-                <li>Fill it as <code>BOT_TOKEN</code></li>
-            </ol>
-        </li>
-        <li>and Done !</li>
+        </ul><br>
+    </li>
+    <li>Go to <a href="https://t.me/botfather">@BotFather</a>
+        <ul type="circle">
+            <li>Create a Bot and you will get Bot Token.</li>
+            <li>Fill it as <code>BOT_TOKEN</code></li>
+</ol>
+</li><br>
+<li>and Done !</li>
 </ol>
 
 <h3>Local Deploy</h3>
