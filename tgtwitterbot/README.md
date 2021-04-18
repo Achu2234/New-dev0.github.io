@@ -12,4 +12,6 @@ It is Using <a href="https://github.com/Tweepy/Tweepy">Tweepy</a> to Interact wi
 <li>Create a Application and fill the details Asked !</li>
 <li>Change the App Setting to <code>Read + Write</code>.</li>
 <li>Go to <code>Keys and Token</code> Tab.</li>
-<li>You can see <code>Consumer Key</code>'s Heading<br><img src="/file/53cd6e806af38801df381.jpg" width="600"></li></ol>
+<li>You can see <code>Consumer Key</code>'s Heading<br><img src="https://telegra.ph/file/53cd6e806af38801df381.jpg" width="600"><br>
+  Generate the Api Key & Secret<br>
+  Generated Api Key will be <code>CONSUMER_KEY</code> and Api Secret will be <code>CONSUMER_SECRET</code><br>Which are Required in ENV.</li></ol>
